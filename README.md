@@ -1,2 +1,12 @@
-# training_product-items
-React practice app for managing a product list: add products, search/filter them, and see the total value.
+# Training Product Items
+
+A small React practice project for managing a list of products.
+
+## Features
+- Add new products with a form
+- Search and filter the product list
+- See the total value of all products
+
+## Run locally
+npm install
+npm start
