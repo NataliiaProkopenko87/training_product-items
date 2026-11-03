@@ -1,5 +1,5 @@
 import {createSlice} from "@reduxjs/toolkit";
-import { addProduct } from "./ProductsSlice";
+import { addProduct } from "./productsSlice";
 
 const formSlice = createSlice({
     name: 'form',
