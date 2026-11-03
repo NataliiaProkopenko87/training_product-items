@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Training Product Items
+
+A small React practice project for managing a list of products.
+
+## Features
+- Add new products with a form
+- Search and filter the product list
+- See the total value of all products
+
+## Run locally
+npm install
+npm start
+>>>>>>> 6cb1552a95245d0ebc6e04a43f4a231245e79f77
