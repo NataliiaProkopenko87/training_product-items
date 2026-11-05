@@ -1,4 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
+import '../styles.css';
 import {productsReducer, addProduct, removeProduct, changeSearchTerm} from "./slices/productsSlice";
 import {formReducer, changeName, changePrice} from "./slices/formSlice";
 
